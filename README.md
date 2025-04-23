@@ -15,10 +15,10 @@ There are **three smart swimming pools** in the village:
 
 Each pool is equipped with:
 
-- 🌡️ **Temperature sensor** *(CoAP Server)*  
-- 🧪 **Chlorine concentration sensor** *(CoAP Server)*  
-- 🔥 **Heating pump** *(CoAP Client)*  
-- 💧 **Chlorine mixer** *(CoAP Client)*  
+- 🌡️ **Temperature sensor** 
+- 🧪 **Chlorine concentration sensor** 
+- 🔥 **Heating pump**  
+- 💧 **Chlorine mixer** 
 
 ---
 
